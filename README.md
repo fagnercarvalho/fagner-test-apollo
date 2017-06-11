@@ -1,6 +1,6 @@
 # fagner-test-apollo
 
-Testing the [Apollo set of Java libraries](https://github.com/spotify/apollo) from Spotify. Most of the code is for testing [apollo-api])https://github.com/spotify/apollo/blob/master/apollo-api).
+Testing the [Apollo set of Java libraries](https://github.com/spotify/apollo) from Spotify. Most of the code is for testing [apollo-api](https://github.com/spotify/apollo/blob/master/apollo-api).
 
 Here are some of the tested features:
 
